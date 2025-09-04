@@ -7,7 +7,7 @@ const Hero = () => {
     <div id='home' className='w-full min-h-screen relative'>
       <div className='absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-center w-full flex flex-col justify-center items-center'>
         <SplitText
-          text="BrewMyAgent"
+          text="EDHWay"
           className="uppercase p-2 pb-8 text-foreground text-sm md:text-sm font-light text-center avalon-bold uppercase tracking-[0.4em]"
           delay={100}
           duration={0.6}

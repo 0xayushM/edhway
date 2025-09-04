@@ -1,5 +1,5 @@
 import React from 'react';
-import company from '@/data/company.json';
+import company from '@/data/footer.json';
 
 const TriangleIcon = () => (
   <svg width="12" height="12" viewBox="0 0 10 10" className="inline-block mr-4 text-tertiary transform rotate-90">
