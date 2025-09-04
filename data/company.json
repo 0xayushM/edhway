@@ -1,0 +1,16 @@
+{
+  "name": "BrewMyAgent",
+  "tagline": "Accelerate Your Future: AI-Powered Solutions, Delivered Fast.",
+  "contact": {
+    "email": "hello@brewmyagent.com",
+    "phone": "+1 (555) 123-4567",
+    "address": "123 Creative Avenue, San Francisco, CA 94103",
+    "social": {
+      "twitter": "https://twitter.com/brewmyagent",
+      "facebook": "https://facebook.com/brewmyagent",
+      "instagram": "https://instagram.com/brewmyagent",
+      "linkedin": "https://linkedin.com/company/brewmyagent",
+      "github": "https://github.com/brewmyagent"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "title": "MEHBOBA",
+    "description": "A comprehensive e-commerce solution with advanced product filtering, user authentication, and payment integration.",
+    "image": "/images/projects/mehboba.png",
+    "subtitle": "Web Development",
+    "technologies": ["Next.js", "TypeScript", "Tailwind CSS", "MongoDB", "Three.js"],
+    "borderColor": "#CC39C5",
+    "gradient": "linear-gradient(145deg, #CC39C5, #615FFF)",
+    "url": "https://mehboba.vercel.app/"
+  },
+  {
+    "id": 2,
+    "title": "Accountables",
+    "description": "A fitness and health tracking application with personalized workout plans, nutrition tracking, and progress analytics.",
+    "image": "/images/projects/accountables.png",
+    "subtitle": "Web Development",
+    "technologies": ["Next.js", "Tailwind CSS", "Figma", "Strapi", "AWS", "Zustand"],
+    "borderColor": "#0B44A5",
+    "gradient": "linear-gradient(145deg, #0B44A5, #3B82F6)",
+    "url": "https://accountables.com/"
+  },
+  {
+    "id": 3,
+    "title": "Ashland Prep",
+    "description": "Complete brand identity design including logo, color palette, typography, and brand guidelines for a creative agency.",
+    "image": "/images/projects/ashland.png",
+    "subtitle": "Brand Identity",
+    "technologies": ["Figma", "Strapi", "AWS", "Zustand"],
+    "borderColor": "#ff7b27",
+    "gradient": "linear-gradient(145deg, #ff7b27, #ff7b27)",
+    "url": "https://ashlandhq.com/"
+  }
+]

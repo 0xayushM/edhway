@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Vaibhav Khandelwal",
+    "role": "Lead AI Engineer & Architect",
+    "bio": "Vaibhav spearheads our AI engineering efforts, designing and building robust, scalable AI solutions. With deep expertise in machine learning and cloud platforms, he turns complex AI challenges into impactful realities.",
+    "image": "/images/team/vaibhav.jpeg",
+    "social": {
+      "linkedin": "https://linkedin.com/in/vaibhavkhandelwal",
+      "twitter": "https://twitter.com/vaibhavkhandelwal",
+      "github": "https://github.com/vaibhavkhandelwal"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Ayush Mangal",
+    "role": "Senior Machine Learning Scientist",
+    "bio": "Ayush is a specialist in developing advanced machine learning models and NLP solutions. He is passionate about leveraging data to uncover insights and drive intelligent automation for our clients.",
+    "image": "/images/team/ayush.png",
+    "social": {
+      "linkedin": "https://linkedin.com/in/0xayushM",
+      "twitter": "https://twitter.com/0xayushM",
+      "github": "https://github.com/0xayushM"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Snehal Raj",
+    "role": "AI Strategy & Product Lead",
+    "bio": "Snehal bridges the gap between AI capabilities and business strategy. He works closely with clients to identify AI opportunities, define product roadmaps, and ensure solutions deliver tangible business value.",
+    "image": "/images/team/snehal.jpeg",
+    "social": {
+      "linkedin": "https://linkedin.com/in/snehalraj",
+      "twitter": "https://twitter.com/snehalraj",
+      "github": "https://github.com/snehalraj"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "title": "Custom AI Development",
+      "description": "Build custom AI solutions tailored to your business needs.",
+      "icon": "FaPaintBrush",
+      "features": ["UI/UX Design", "Responsive Layouts", "Wireframing", "Prototyping"]
+    },
+    {
+      "id": 2,
+      "title": "AI Strategy & Consultation",
+      "description": "Our development team builds robust, scalable websites with clean code and cutting-edge technologies.",
+      "icon": "FaCode",
+      "features": ["Frontend Development", "Backend Integration", "CMS Implementation", "E-commerce Solutions"]
+    },
+    {
+      "id": 3,
+      "title": "AI Powered MVP Development",
+      "description": "We design intuitive digital products that solve real problems and deliver exceptional user experiences.",
+      "icon": "FaLaptopCode",
+      "features": ["User Research", "Information Architecture", "Interaction Design", "Usability Testing"]
+    },
+    {
+      "id": 4,
+      "title": "Generative AI Solutions",
+      "description": "Our creative team crafts memorable logos that communicate your brand's values and stand out in the market.",
+      "icon": "FaPenNib",
+      "features": ["Brand Identity", "Vector Graphics", "Color Theory", "Typography"]
+    },
+    {
+      "id": 5,
+      "title": "AI Driven Data Insights",
+      "description": "We build native and cross-platform mobile applications that deliver seamless experiences across devices.",
+      "icon": "FaMobileAlt",
+      "features": ["iOS Development", "Android Development", "React Native", "Flutter"]
+    }
+  ]
+  
