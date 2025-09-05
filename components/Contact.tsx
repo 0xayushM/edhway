@@ -26,7 +26,7 @@ const Contact = () => {
           {/* Left Column: Contact Info */}
           <h2 className="relative uppercase text-4xl md:text-7xl avalon-bold leading-tight text-foreground">
           <span className="absolute hidden md:block top-0 -left-20 text-7xl md:text-9xl text-tertiary font-bold opacity-90 select-none">“</span>
-          Let’s brew something brilliant.
+          Let’s build something brilliant.
         </h2>
           {/* Right Column: Contact Form */}
           <form className="space-y-6 avalon">

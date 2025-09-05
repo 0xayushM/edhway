@@ -32,7 +32,7 @@ const AboutPage = () => {
           textAlign="start"
           onLetterAnimationComplete={() => { }}
         >
-           <span className="text-tertiary">BrewMyAgent </span>leverages cutting-edge AI to build intelligent applications, automate workflows, and unlock data-driven insights. We transform your vision into market-ready <span className="text-tertiary">AI solutions</span>, rapidly.
+           <span className="text-tertiary">EDHWay </span>leverages cutting-edge AI to build intelligent applications, automate workflows, and unlock data-driven insights. We transform your vision into market-ready <span className="text-tertiary">AI solutions</span>, rapidly.
         </SplitText>
 
 

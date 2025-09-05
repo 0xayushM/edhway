@@ -3,7 +3,7 @@ import Navbar from '../components/Navbar';
 import Hero from '../components/Hero';
 import AboutPage from '../components/About';
 import Services from '../components/Services';
-import Projects from '../components/Projects';
+// import Projects from '../components/Projects';
 import Testimonials from '../components/Testimonials';
 import Contact from '../components/Contact';
 import Footer from '../components/Footer';
@@ -12,6 +12,7 @@ import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { ScrollSmoother } from 'gsap/ScrollSmoother';
 import Beams from '@/ui/beam'; // Added import for Beams
+import Philosophy from '@/components/Philosophy';
 
 gsap.registerPlugin(ScrollTrigger, ScrollSmoother);
 
@@ -77,7 +78,8 @@ export default function Home() {
         <Hero />
         <AboutPage />
         <Services />
-        <Projects />
+        {/* <Projects /> */}
+        <Philosophy />
         <Testimonials />
         <Contact />
       </main>

@@ -65,7 +65,7 @@ const Navbar = () => {
     <nav className='fixed top-0 bg-gradient-to-b from-black via-black to-transparent w-full z-50'>
       <div className='flex items-center justify-between w-full p-4 md:p-16 md:pb-0'>
         <Link href="#home" className='avalon-bold text-xl md:text-2xl'>
-          BMA
+          EDHWay
         </Link>
         
         <div className='hidden md:flex font-geist-sans text-sm avalon-bold tracking-[0.2rem] flex-col items-end uppercase'>
